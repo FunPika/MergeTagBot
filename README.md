@@ -1,4 +1,4 @@
 MergeTagBot
 ===========
 
-Bot to add missing {{mergeto}} and {{mergefrom}} tags.
+Bot to add missing {{merge}}, {{mergeto}}, and {{mergefrom}} tags.
